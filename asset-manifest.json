@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BettingGame/static/css/main.36c35d02.css",
-    "main.js": "/BettingGame/static/js/main.3c7e25f0.js",
+    "main.js": "/BettingGame/static/js/main.fe1a20b6.js",
     "index.html": "/BettingGame/index.html",
     "main.36c35d02.css.map": "/BettingGame/static/css/main.36c35d02.css.map",
-    "main.3c7e25f0.js.map": "/BettingGame/static/js/main.3c7e25f0.js.map"
+    "main.fe1a20b6.js.map": "/BettingGame/static/js/main.fe1a20b6.js.map"
   },
   "entrypoints": [
     "static/css/main.36c35d02.css",
-    "static/js/main.3c7e25f0.js"
+    "static/js/main.fe1a20b6.js"
   ]
 }
