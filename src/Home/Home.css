@@ -65,6 +65,10 @@
 	font-size:90px;
 	color:red;
 }
+#dice{
+	font-size:70px;
+	color:green;
+}
 
 .alert-box {
   position: fixed;
