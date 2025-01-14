@@ -31,6 +31,7 @@
 	height:30vh;
 	border:1px solid black;
 	flex-direction:column;
+	
 }
 #diceShow{
 	display:flex;
@@ -62,12 +63,12 @@
 	font-size:30px;
 }
 #counting{
-	font-size:90px;
-	color:red;
+	font-size:100px;
+	color:blue;
 }
 #dice{
 	font-size:70px;
-	color:green;
+	color:red;
 }
 
 .alert-box {
